@@ -9,7 +9,7 @@ It uses **SQLite** as storage for memes and keywords.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ReBotPHP.git
+git clone https://github.com/DanielDrabik/ReBotPHP.git
 cd ReBotPHP
 ```
 

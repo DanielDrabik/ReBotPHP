@@ -11,4 +11,4 @@ WORKDIR /usr/src/app
 
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
-CMD ["php", "src/index.php"]
+CMD ["./start.sh"]
