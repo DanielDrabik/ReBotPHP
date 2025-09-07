@@ -1,0 +1,20 @@
+{
+    "name": "danieldrabik/rebot-php",
+    "description": "Discord Reply Bot",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ReBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Drabik"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "team-reflex/discord-php": "^10.18"
+    }
+}

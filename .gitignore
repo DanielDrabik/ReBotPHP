@@ -1,0 +1,19 @@
+# Composer dependencies
+/vendor/
+
+/database/
+/src/*.json
+.env
+
+# Logs
+*.log
+*.cache
+
+# Docker
+/.idea/
+/.vscode/
+.dockerignore
+
+# System files
+.DS_Store
+Thumbs.db
