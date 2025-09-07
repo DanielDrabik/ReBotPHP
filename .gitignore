@@ -1,7 +1,7 @@
 # Composer dependencies
 /vendor/
 
-/database/
+/database/*.sqlite
 /src/*.json
 .env
 
